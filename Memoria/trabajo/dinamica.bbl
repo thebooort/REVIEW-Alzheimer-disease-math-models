@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{hao}
+W.~Hao, A.~Friedman, Mathematical model on alzheimer’s disease, BMC systems
+  biology 10~(1) (2016) 108.
+
+\bibitem{puri}
+I.~K. Puri, L.~Li, Mathematical modeling for the pathogenesis of alzheimer's
+  disease, PLoS One 5~(12) (2010) e15176.
+
+\bibitem{helal}
+M.~Helal, E.~Hingant, L.~Pujo-Menjouet, G.~F. Webb,
+  \href{http://gen.lib.rus.ec/scimag/index.php?s=10.1007/s00285-013-0732-0}{Alzheimer’s
+  disease: analysis of a mathematical model incorporating the role of prions},
+  Journal of Mathematical Biology 69.
+\newblock \href {http://dx.doi.org/10.1007/s00285-013-0732-0}
+  {\path{doi:10.1007/s00285-013-0732-0}}.
+\newline\urlprefix\url{http://gen.lib.rus.ec/scimag/index.php?s=10.1007/s00285-013-0732-0}
+
+\bibitem{bertsch}
+M.~Bertsch, B.~Franchi, N.~Marcello, M.~C. Tesi, A.~Tosin, Alzheimer's disease:
+  a mathematical model for onset and progression, Mathematical medicine and
+  biology: a journal of the IMA 34~(2) (2016) 193--214.
+
+\end{thebibliography}

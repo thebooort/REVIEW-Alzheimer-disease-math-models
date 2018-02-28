@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{3}{0}{1}
+\beamer@sectionintoc {2}{Mecanismos biol\IeC {\'o}gicos implicados}{4}{0}{2}
+\beamer@sectionintoc {3}{Propuestas de modelado}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Patog\IeC {\'e}nesis}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Incorporaci\IeC {\'o}n de comportamiento pri\IeC {\'o}nico}{9}{0}{3}
+\beamer@subsectionintoc {3}{3}{Comportamiento pri\IeC {\'o}nico +Difusi\IeC {\'o}n+Transporte}{12}{0}{3}
+\beamer@subsectionintoc {3}{4}{Comportamiento global}{17}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones y futuro trabajo}{23}{0}{4}
